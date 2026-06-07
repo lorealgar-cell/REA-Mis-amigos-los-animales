@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260607195424GWL9DS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260607195424RIYQH0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MIS AMIGOS LOS ANIMALES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CONOCEMOS LOS VERTEBRADOS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Loreto Algar Quijada</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Creación, presentación y exposición de un cartel digital sobre los animales vertebrados en 4º de Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780854840843</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq42z1q2-e0l7180i8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q2-e0l7180i8</odePageId>
+      <odeBlockId>block-1780044412180-xyf66zs9q</odeBlockId>
+      <blockName>Nuestro proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q2-e0l7180i8</odePageId>
+          <odeBlockId>block-1780044412180-xyf66zs9q</odeBlockId>
+          <odeIdeviceId>idevice-1780044412178-b34e30i5a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Imagen vertebrados.png" width="1086" height="1448" alt="" />¡Hola chicos y chicas de 4ºA!</p>
+<p>Durante las próximas semanas vamos a desarrollar un proyecto sobre los animales vertebrados, dentro de la unidad “Mis amigos los animales”. Este trabajo se llevará a cabo principalmente desde el área de Conocimiento del Medio, aunque también incorporaremos aprendizajes relacionados con otras áreas, como Lengua Castellana y Literatura y Educación Artística.</p>
+<p>A lo largo del proyecto, aprenderéis a identificar, clasificar y describir las principales características de los animales vertebrados, distinguiendo los diferentes grupos que existen y comprendiendo mejor sus características y formas de vida.</p>
+<p>Además, este proyecto os permitirá desarrollar otras habilidades importantes, como la búsqueda, selección y organización de información, el trabajo cooperativo con vuestros compañeros y compañeras, así como el uso de herramientas digitales para la elaboración de un cartel digital. Finalmente, tendréis la oportunidad de exponer vuestro trabajo oralmente ante la clase, compartiendo los conocimientos adquiridos.</p>
+<p>El proyecto se desarrollará durante aproximadamente dos semanas, combinando sesiones en el aula con una pequeña tarea previa en casa, que consistirá en la visualización de un vídeo relacionado con el tema para facilitar vuestra preparación.</p>
+<p>Se espera de todos vosotros una participación activa, responsabilidad y colaboración, ya que el trabajo en equipo y el esfuerzo conjunto serán fundamentales para alcanzar los objetivos propuestos.</p>
+<p>Con ilusión e interés, comenzaremos esta experiencia de aprendizaje para convertirnos en auténticos conocedores de los animales vertebrados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780044412178-b34e30i5a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Imagen vertebrados.png\" width=\"1086\" height=\"1448\" alt=\"\" />¡Hola chicos y chicas de 4ºA!</p>\n<p>Durante las próximas semanas vamos a desarrollar un proyecto sobre los animales vertebrados, dentro de la unidad “Mis amigos los animales”. Este trabajo se llevará a cabo principalmente desde el área de Conocimiento del Medio, aunque también incorporaremos aprendizajes relacionados con otras áreas, como Lengua Castellana y Literatura y Educación Artística.</p>\n<p>A lo largo del proyecto, aprenderéis a identificar, clasificar y describir las principales características de los animales vertebrados, distinguiendo los diferentes grupos que existen y comprendiendo mejor sus características y formas de vida.</p>\n<p>Además, este proyecto os permitirá desarrollar otras habilidades importantes, como la búsqueda, selección y organización de información, el trabajo cooperativo con vuestros compañeros y compañeras, así como el uso de herramientas digitales para la elaboración de un cartel digital. Finalmente, tendréis la oportunidad de exponer vuestro trabajo oralmente ante la clase, compartiendo los conocimientos adquiridos.</p>\n<p>El proyecto se desarrollará durante aproximadamente dos semanas, combinando sesiones en el aula con una pequeña tarea previa en casa, que consistirá en la visualización de un vídeo relacionado con el tema para facilitar vuestra preparación.</p>\n<p>Se espera de todos vosotros una participación activa, responsabilidad y colaboración, ya que el trabajo en equipo y el esfuerzo conjunto serán fundamentales para alcanzar los objetivos propuestos.</p>\n<p>Con ilusión e interés, comenzaremos esta experiencia de aprendizaje para convertirnos en auténticos conocedores de los animales vertebrados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1q5-wrgh2lpav</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad en Internet</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en Internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en Internet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q5-wrgh2lpav</odePageId>
+      <odeBlockId>block-1780046228431-60uk2pyqb</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q5-wrgh2lpav</odePageId>
+          <odeBlockId>block-1780046228431-60uk2pyqb</odeBlockId>
+          <odeIdeviceId>idevice-1780046228430-4b37dp0vp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía.png" width="1366" height="3415" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780046228430-4b37dp0vp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía.png\" width=\"1366\" height=\"3415\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1q6-zw2xk5cwr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q6-zw2xk5cwr</odePageId>
+      <odeBlockId>block-1780390825015-pun90rm6k</odeBlockId>
+      <blockName>Mural digital colaborativo /Cartel interactivo</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q6-zw2xk5cwr</odePageId>
+          <odeBlockId>block-1780390825015-pun90rm6k</odeBlockId>
+          <odeIdeviceId>idevice-1780390825012-nqinwoh4e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar el producto final de la Situación de Aprendizaje “Mis amigos los animales”, vais a utilizar las herramientas digitales Padlet y Canva. Gracias a los ordenadores portátiles disponibles en el centro, podréis trabajar con estas aplicaciones de forma cómoda en el aula.</p>
+<p>A lo largo de esta actividad, investigaréis sobre los animales vertebrados, seleccionaréis información importante y la presentaréis de una manera atractiva y organizada. Para ello, crearéis en grupo un mural digital colaborativo con Padlet y un cartel interactivo con Canva, que posteriormente compartiréis con vuestros compañeros y compañeras.</p>
+<p>Utilizaremos Padlet porque nos permite reunir y organizar información de forma visual y colaborativa. En él podréis añadir textos, imágenes, vídeos y enlaces, facilitando el trabajo en equipo y la construcción conjunta del aprendizaje. Además, todos los miembros del grupo podréis participar aportando vuestras ideas y descubrimientos.</p>
+<p>Por otro lado, emplearemos Canva para diseñar un cartel interactivo atractivo y creativo. Esta herramienta ofrece plantillas fáciles de usar que os ayudarán a presentar la información de manera clara, visual y original, potenciando vuestra creatividad y capacidad para comunicar lo aprendido.</p>
+<p>Con el uso de estas herramientas no solo aprenderéis sobre los animales vertebrados, sino que también desarrollaréis vuestra competencia digital, mejoraréis vuestra expresión oral y escrita, aprenderéis a trabajar de forma cooperativa y ganaréis autonomía en el uso responsable de las tecnologías. Tanto Padlet como Canva son herramientas intuitivas y adaptadas a vuestro nivel, permitiéndoos avanzar poco a poco en el manejo de recursos digitales mientras disfrutáis aprendiendo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780390825012-nqinwoh4e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar el producto final de la Situación de Aprendizaje “Mis amigos los animales”, vais a utilizar las herramientas digitales Padlet y Canva. Gracias a los ordenadores portátiles disponibles en el centro, podréis trabajar con estas aplicaciones de forma cómoda en el aula.</p>\n<p>A lo largo de esta actividad, investigaréis sobre los animales vertebrados, seleccionaréis información importante y la presentaréis de una manera atractiva y organizada. Para ello, crearéis en grupo un mural digital colaborativo con Padlet y un cartel interactivo con Canva, que posteriormente compartiréis con vuestros compañeros y compañeras.</p>\n<p>Utilizaremos Padlet porque nos permite reunir y organizar información de forma visual y colaborativa. En él podréis añadir textos, imágenes, vídeos y enlaces, facilitando el trabajo en equipo y la construcción conjunta del aprendizaje. Además, todos los miembros del grupo podréis participar aportando vuestras ideas y descubrimientos.</p>\n<p>Por otro lado, emplearemos Canva para diseñar un cartel interactivo atractivo y creativo. Esta herramienta ofrece plantillas fáciles de usar que os ayudarán a presentar la información de manera clara, visual y original, potenciando vuestra creatividad y capacidad para comunicar lo aprendido.</p>\n<p>Con el uso de estas herramientas no solo aprenderéis sobre los animales vertebrados, sino que también desarrollaréis vuestra competencia digital, mejoraréis vuestra expresión oral y escrita, aprenderéis a trabajar de forma cooperativa y ganaréis autonomía en el uso responsable de las tecnologías. Tanto Padlet como Canva son herramientas intuitivas y adaptadas a vuestro nivel, permitiéndoos avanzar poco a poco en el manejo de recursos digitales mientras disfrutáis aprendiendo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1q7-irexdu3f2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q7-irexdu3f2</odePageId>
+      <odeBlockId>block-1780391279930-61e8i8td2</odeBlockId>
+      <blockName>Padlet alumnado</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q7-irexdu3f2</odePageId>
+          <odeBlockId>block-1780391279930-61e8i8td2</odeBlockId>
+          <odeIdeviceId>idevice-1780391279928-mn1es6lyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del proyecto he diseñado un <a href="https://padlet.com/lorealgar/los-animales-vertebrados-yu6urrvyf9512ai8">Padlet</a> para el alumnado, en el que se explican los pasos a seguir y se recopilan los recursos necesarios para realizar las actividades. En él pueden encontrar imágenes, vídeos, enlaces y otros materiales de apoyo que les ayudarán a comprender los contenidos y a desarrollar las tareas propuestas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780391279928-mn1es6lyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del proyecto he diseñado un <a href=\"https://padlet.com/lorealgar/los-animales-vertebrados-yu6urrvyf9512ai8\">Padlet</a> para el alumnado, en el que se explican los pasos a seguir y se recopilan los recursos necesarios para realizar las actividades. En él pueden encontrar imágenes, vídeos, enlaces y otros materiales de apoyo que les ayudarán a comprender los contenidos y a desarrollar las tareas propuestas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq42z1q7-irexdu3f2</odePageId>
+      <odeBlockId>block-1780391853527-zpa8yf58y</odeBlockId>
+      <blockName>Symbaloo docentes</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q7-irexdu3f2</odePageId>
+          <odeBlockId>block-1780391853527-zpa8yf58y</odeBlockId>
+          <odeIdeviceId>idevice-1780391853525-7ifc8xbfr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En <a href="https://www.symbaloo.com/shared/AAAAAx2GpCkAA41_W3V0Hw==" title="">Symbaloo</a> he recopilado las principales herramientas digitales que utilizo de forma habitual y que se emplearán durante el desarrollo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780391853525-7ifc8xbfr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En <a href=\"https://www.symbaloo.com/shared/AAAAAx2GpCkAA41_W3V0Hw==\" title=\"\">Symbaloo</a> he recopilado las principales herramientas digitales que utilizo de forma habitual y que se emplearán durante el desarrollo del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1q7-ofogzg40c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea del tiempo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q7-ofogzg40c</odePageId>
+      <odeBlockId>block-1780392235217-p41ey63ma</odeBlockId>
+      <blockName>Desarrollo por sesiones</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q7-ofogzg40c</odePageId>
+          <odeBlockId>block-1780392235217-p41ey63ma</odeBlockId>
+          <odeIdeviceId>idevice-1780392235214-icxo822sp</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780392235214-icxo822sp" title="" href="{{context_path}}/content/resources/7.1 Imagen línea temporal.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/7.1 Imagen línea temporal.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780392235214-icxo822sp","img_0":{"img":"{{context_path}}/content/resources/7.1 Imagen línea temporal.png","thumbnail":"{{context_path}}/content/resources/7.1 Imagen línea temporal.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1q8-5dlkzml1k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1q8-5dlkzml1k</odePageId>
+      <odeBlockId>block-1780392486889-pbp5wsyhv</odeBlockId>
+      <blockName>Criterios de evaluación para cada tarea</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1q8-5dlkzml1k</odePageId>
+          <odeBlockId>block-1780392486889-pbp5wsyhv</odeBlockId>
+          <odeIdeviceId>idevice-1780392486887-uaqzoovfa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tarea 1: Descubrimos los vertebrados</strong></p>
+<p>1.1.b. Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del contexto educativo de forma segura, buscando información, comunicándose y trabajando de forma individual y en equipo y creando contenidos digitales sencillos, aumentando la productividad y eficiencia en el propio trabajo. </p>
+<p><strong>Tarea 2: ¿Qué sabemos sobre los animales? </strong></p>
+<p>5.1.b. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </p>
+<p><strong>Tarea 3: Investigamos en equipo</strong> </p>
+<p>2.2.b. Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>
+<p><strong>Tarea 4: Clasificamos animales</strong></p>
+<p>5.1.b. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </p>
+<p><strong>Tarea 5: Creamos nuestro cartel digital</strong></p>
+<p>3.1.b. Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados. </p>
+<p><strong>Tarea 6: Preparamos la exposición</strong></p>
+<p>3.1.b. Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados.</p>
+<p>3.2.b. Presentar el producto final de los proyectos de diseño en diferentes formatos y explicando los pasos seguidos. </p>
+<p><strong>Tarea 7: Presentamos nuestro trabajo</strong></p>
+<p>3.2.b. Presentar el producto final de los proyectos de diseño en diferentes formatos y explicando los pasos seguidos. </p>
+<p>2.5.b. Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia que va dirigido, utilizando lenguaje científico y explicando los pasos seguidos. </p>
+<p><strong>Tarea 8: Reflexionamos sobre lo aprendido</strong></p>
+<p>2.4.b. Proponer posibles respuestas a las preguntas planteadas, a través del análisis e interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones, comparándolas con las predicciones realizadas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780392486887-uaqzoovfa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tarea 1: Descubrimos los vertebrados</strong></p>\n<p>1.1.b. Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del contexto educativo de forma segura, buscando información, comunicándose y trabajando de forma individual y en equipo y creando contenidos digitales sencillos, aumentando la productividad y eficiencia en el propio trabajo. </p>\n<p><strong>Tarea 2: ¿Qué sabemos sobre los animales? </strong></p>\n<p>5.1.b. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </p>\n<p><strong>Tarea 3: Investigamos en equipo</strong> </p>\n<p>2.2.b. Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>\n<p><strong>Tarea 4: Clasificamos animales</strong></p>\n<p>5.1.b. Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural, a través de metodologías de indagación, utilizando las herramientas y procesos adecuados, comprendiendo y valorando su riqueza y diversidad. </p>\n<p><strong>Tarea 5: Creamos nuestro cartel digital</strong></p>\n<p>3.1.b. Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados. </p>\n<p><strong>Tarea 6: Preparamos la exposición</strong></p>\n<p>3.1.b. Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados.</p>\n<p>3.2.b. Presentar el producto final de los proyectos de diseño en diferentes formatos y explicando los pasos seguidos. </p>\n<p><strong>Tarea 7: Presentamos nuestro trabajo</strong></p>\n<p>3.2.b. Presentar el producto final de los proyectos de diseño en diferentes formatos y explicando los pasos seguidos. </p>\n<p>2.5.b. Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia que va dirigido, utilizando lenguaje científico y explicando los pasos seguidos. </p>\n<p><strong>Tarea 8: Reflexionamos sobre lo aprendido</strong></p>\n<p>2.4.b. Proponer posibles respuestas a las preguntas planteadas, a través del análisis e interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones, comparándolas con las predicciones realizadas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1qa-1mm5sw6nc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1qa-1mm5sw6nc</odePageId>
+      <odeBlockId>block-1780393078371-w1fk5anz9</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1qa-1mm5sw6nc</odePageId>
+          <odeBlockId>block-1780393078371-w1fk5anz9</odeBlockId>
+          <odeIdeviceId>idevice-1780393078369-glxm8mx7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Cuándo se utilizará?</strong></p>
+<p>Esta rúbrica se aplicará principalmente en la tarea 5: Creamos nuestro cartel digital, la tarea 6: Preparamos la exposición y en la tarea 7: Presentamos nuestro trabajo.</p>
+<p><strong>¿Qué se evaluará?</strong></p>
+<p>Permitirá evaluar la calidad y organización de la información, la correcta clasificación de los animales vertebrados, el uso adecuado del vocabulario científico, la creatividad y presentación visual del cartel digital, la competencia digital en el uso de Canva o Padlet, la expresión oral y comunicación durante la exposición y la participación y cooperación dentro del grupo.</p>
+<p><strong>¿Cómo se obtendrán y analizarán datos?</strong></p>
+<p>El análisis de los datos se llevará a cabo mediante la observación del alumnado durante el desarrollo del trabajo en grupo y la exposición final. La rúbrica permitirá recopilar evidencias objetivas sobre el desempeño tanto de cada grupo como de cada alumno.</p>
+<p>Los resultados servirán para detectar dificultades en la comprensión de los contenidos, identificar problemas en el trabajo cooperativo, comprobar el nivel de competencia digital del alumnado y valorar la capacidad comunicativa y expresiva.</p>
+<p>Además de la calificación, estos datos ayudarán a adaptar futuras actividades, reforzar contenidos concretos y ofrecer apoyo específico al alumnado que lo necesite.</p>
+<p><img src="{{context_path}}/content/resources/rubrica_sin_sugerencias.jpg" width="685" height="562" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780393078369-glxm8mx7t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Cuándo se utilizará?</strong></p>\n<p>Esta rúbrica se aplicará principalmente en la tarea 5: Creamos nuestro cartel digital, la tarea 6: Preparamos la exposición y en la tarea 7: Presentamos nuestro trabajo.</p>\n<p><strong>¿Qué se evaluará?</strong></p>\n<p>Permitirá evaluar la calidad y organización de la información, la correcta clasificación de los animales vertebrados, el uso adecuado del vocabulario científico, la creatividad y presentación visual del cartel digital, la competencia digital en el uso de Canva o Padlet, la expresión oral y comunicación durante la exposición y la participación y cooperación dentro del grupo.</p>\n<p><strong>¿Cómo se obtendrán y analizarán datos?</strong></p>\n<p>El análisis de los datos se llevará a cabo mediante la observación del alumnado durante el desarrollo del trabajo en grupo y la exposición final. La rúbrica permitirá recopilar evidencias objetivas sobre el desempeño tanto de cada grupo como de cada alumno.</p>\n<p>Los resultados servirán para detectar dificultades en la comprensión de los contenidos, identificar problemas en el trabajo cooperativo, comprobar el nivel de competencia digital del alumnado y valorar la capacidad comunicativa y expresiva.</p>\n<p>Además de la calificación, estos datos ayudarán a adaptar futuras actividades, reforzar contenidos concretos y ofrecer apoyo específico al alumnado que lo necesite.</p>\n<p><img src=\"{{context_path}}/content/resources/rubrica_sin_sugerencias.jpg\" width=\"685\" height=\"562\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq42z1qa-1mm5sw6nc</odePageId>
+      <odeBlockId>block-1780393929029-kyuocka23</odeBlockId>
+      <blockName>Diana de autoevaluación</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1qa-1mm5sw6nc</odePageId>
+          <odeBlockId>block-1780393929029-kyuocka23</odeBlockId>
+          <odeIdeviceId>idevice-1780393929026-1oi5xl7ro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><img src="{{context_path}}/content/resources/Diana de autoevaluación.jpg" width="607" height="858" alt="" /></strong></p>
+<p><strong>¿Cuándo se utilizará?</strong></p>
+<p>Se aplicará al finalizar la Situación de Aprendizaje, después de la reflexión grupal.</p>
+<p><strong>¿Qué se evaluará?</strong></p>
+<p>La diana permitirá que el alumnado valore y reflexione sobre lo que ha aprendido en relación a los animales vertebrados, su participación en el grupo, su esfuerzo e implicación, el uso de herramientas digitales y su capacidad para exponer oralmente.</p>
+<p><strong>¿Cómo se obtendrán y analizarán datos?</strong></p>
+<p>La autoevaluación permitirá favorecer la reflexión sobre el propio aprendizaje, potenciar la autonomía y la autorregulación, detectar inseguridades o dificultades que no siempre aparecen en otras pruebas y mejorar futuras propuestas didácticas.</p>
+<p>Además, permitirá comparar la percepción del alumnado con los resultados obtenidos en otros instrumentos de evaluación.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780393929026-1oi5xl7ro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><img src=\"{{context_path}}/content/resources/Diana de autoevaluación.jpg\" width=\"607\" height=\"858\" alt=\"\" /></strong></p>\n<p><strong>¿Cuándo se utilizará?</strong></p>\n<p>Se aplicará al finalizar la Situación de Aprendizaje, después de la reflexión grupal.</p>\n<p><strong>¿Qué se evaluará?</strong></p>\n<p>La diana permitirá que el alumnado valore y reflexione sobre lo que ha aprendido en relación a los animales vertebrados, su participación en el grupo, su esfuerzo e implicación, el uso de herramientas digitales y su capacidad para exponer oralmente.</p>\n<p><strong>¿Cómo se obtendrán y analizarán datos?</strong></p>\n<p>La autoevaluación permitirá favorecer la reflexión sobre el propio aprendizaje, potenciar la autonomía y la autorregulación, detectar inseguridades o dificultades que no siempre aparecen en otras pruebas y mejorar futuras propuestas didácticas.</p>\n<p>Además, permitirá comparar la percepción del alumnado con los resultados obtenidos en otros instrumentos de evaluación.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1qb-i1i5uzp6u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1qb-i1i5uzp6u</odePageId>
+      <odeBlockId>block-1780562793278-l4w3an8wm</odeBlockId>
+      <blockName>Asociación de tareas, criterios de evaluación, competencias específicas y saberes</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1qb-i1i5uzp6u</odePageId>
+          <odeBlockId>block-1780562793278-l4w3an8wm</odeBlockId>
+          <odeIdeviceId>idevice-1780562793277-hbto0jn8d</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780562793277-hbto0jn8d" title="" href="{{context_path}}/content/resources/pagina_1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pagina_1.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780562793277-hbto0jn8d" title="" href="{{context_path}}/content/resources/pagina_2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pagina_2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780562793277-hbto0jn8d" title="" href="{{context_path}}/content/resources/pagina_3.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pagina_3.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1780562793277-hbto0jn8d" title="" href="{{context_path}}/content/resources/pagina_4.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pagina_4.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780562793277-hbto0jn8d","img_0":{"img":"{{context_path}}/content/resources/pagina_1.png","thumbnail":"{{context_path}}/content/resources/pagina_1.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/pagina_2.png","thumbnail":"{{context_path}}/content/resources/pagina_2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/pagina_3.png","thumbnail":"{{context_path}}/content/resources/pagina_3.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/pagina_4.png","thumbnail":"{{context_path}}/content/resources/pagina_4.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq42z1qc-ks0odjen8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq42z1qc-ks0odjen8</odePageId>
+      <odeBlockId>block-1780563703394-dkcfhx05t</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq42z1qc-ks0odjen8</odePageId>
+          <odeBlockId>block-1780563703394-dkcfhx05t</odeBlockId>
+          <odeIdeviceId>idevice-1780563703392-el13ayspn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONOCEMOS LOS ANIMALES VERTEBRADOS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Creación, presentación y exposición de un cartel digital sobre los animales vertebrados en 4º de Educación Primaria</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Loreto Algar Quijada</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
